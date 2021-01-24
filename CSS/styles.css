@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Inconsolata";
+  padding: 30px 100px 30px;
+}
+
+h3 {
+  font-family: "Dancing Script";
+  margin: 10% 0 2%;
+}
+
+.copy {
+  font-family: "Caveat";
+}
+
+.text {
+  font-family: "Montserrat";
+}
+
+.text1 {
+  font-family: "Alice";
+  font-size: 1.25rem;
+}
+
+h2 {
+  font-family: "Gugi";
+  margin: 2% 0 2%;
+}
+
+.main-page {
+  text-align: center;
+  background-color: #fdcfdf;
+  color: #2f4f4f;
+}
+
+.content {
+  margin-left: 35%;
+  width: 30%;
+  line-height: 2.25;
+  font-size: 1.25rem;
+}
+
+.copyright {
+  background-color: #fdcfdf;
+  text-align: center;
+  padding: 3.5% 15% 1%;
+  color: #2f4f4f;
+  font-size: 0.75rem;
+}
+
+.let-go {
+  font-family: "Montserrat";
+  margin: 2.75% 0 3%;
+  color: #2f4f4f;
+}
+
+.top-couple {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+  width: 20%;
+}
+
+.bottom-couple {
+  position: absolute;
+  left: 100px;
+  bottom: 50px;
+  width: 20%;
+}
+
+/* Memories section */
+
+#valentine {
+  background-color: #bedcfa;
+  text-align: center;
+  padding: 2%;
+}
+
+.Valentine {
+  line-height: 2rem;
+  padding: 3.5% 15% 3%;
+  font-size: 1rem;
+}
+
+.val-img {
+  width: 35%;
+  margin: 20px;
+}
+
+.val-img2 {
+  height: 445px;
+}
+
+#team-outing {
+  background-color: #fbbedf;
+  text-align: center;
+  padding: 2%;
+}
+
+.out-img {
+  width: 35%;
+  margin: 20px;
+}
+
+.out-img1 {
+  height: 420px;
+}
+
+.outing {
+  line-height: 2rem;
+  padding: 3.5% 15% 3%;
+  font-size: 1rem;
+}
+
+#moving-out {
+  background-color: #bedcfa;
+  text-align: center;
+  padding: 2%;
+}
+
+.chat-img {
+  height: 500px;
+margin: 20px;
+}
+
+.chat {
+  line-height: 2rem;
+  padding: 3.5% 15% 3%;
+  font-size: 1rem;
+}
+
+#friednship {
+  background-color: #fbbedf;
+  text-align: center;
+  padding: 2%;
+}
+
+.day1 {
+  width: 30%;
+  height: 500px;
+  margin: 20px;
+}
+
+.friendship {
+  line-height: 2rem;
+  padding: 3.5% 15% 3%;
+  font-size: 1rem;
+}
+
+#we {
+  background-color: #bedcfa;
+  text-align: center;
+  padding: 2%;
+}
+
+.us {
+  height: 450px;
+  margin: 20px;
+}
+
+.together {
+  line-height: 2rem;
+  padding: 3.5% 15% 4%;
+  font-size: 1rem;
+}
+
+.kiss {
+  height: 300px;
+  width: 300px;
+  margin-bottom: 0;
+}
+
+.copyright1 {
+  font-family: "Caveat";
+  background-color: #bedcfa;
+  text-align: center;
+  padding: 0 15% 1%;
+  color: black;
+  font-size: 0.75rem;
+}
